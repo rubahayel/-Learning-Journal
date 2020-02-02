@@ -1,2 +1,9 @@
 # -Learning-Journal
-my first Github
+* ruba
+* hayel
+* alfogaha
+
+
+&ruba 
+
+'ruba'
